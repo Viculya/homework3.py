@@ -1,8 +1,8 @@
 name="Name: Viktoria"
 print(name)
-age=("37")
-print ("Age:"+age)
-new_age=((int(age)+1))
-print ("New age:"+(str)(new_age))
-is_student="Is Student: True"
-print (is_student)
+age=(37)
+print ("Age:"+(str)(age))
+new_age=((age)+(1))
+print ("New age:",new_age)
+is_student= 'Is Student:'
+print('Is Student:',bool(is_student))
